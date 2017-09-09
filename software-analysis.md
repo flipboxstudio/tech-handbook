@@ -62,3 +62,23 @@ Masukkan dokumen *Tech Spec* ke dalam drive folder dengan menggunakan penamaan s
 - Nama berkas : Tech Spec [Nama Project] [Platform]
 
 ---
+### Dokumen *Tech Doc*
+
+Kepanjangan dari *Technical Documentation*, dokumen ini berisi penjabaran teknis dari sistem yang telah diimplementasikan. Pembuatan dokumen ini dapat dilakukan dengan menggunakan *Google Drive Template* ( *New -> Google Docs -> From a template* )
+
+Beberapa hal yang perlu dijabarkan dalam dokumen ini adalah :
+
+- Deskripsi & Tujuan modul yang telah dibuat
+- Deskripsi & Tujuan *user story* yang ada di dalam modul terkait
+- Proses yang berjalan dalam *story* terkait dan dilengkapi dengan diagram proses
+- Tampilan terkait proses yang telah dijabarkan dan interaksi yang ada di dalam tampilan tsb
+- Basis data yang digunakan dalam implementasi *story* terkait
+- Pesan dan kombinasi *error* yang telah diimplementasikan
+
+Masukkan dokumen *Tech Doc* ke dalam drive folder dengan menggunakan penamaan sebagai berikut :
+
+- *Parent Folder* : [NAMA PROJECT] Software Analysis
+- Nama folder : TECH DOCS
+- Nama berkas : Tech Doc [Nama Project] [Platform]
+
+---

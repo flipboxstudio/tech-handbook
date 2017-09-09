@@ -20,9 +20,6 @@ No redundancy
 
 > "Clean Code is a code that is written by someone who cares" - **Michael Feathers**
 
-Bacaan lebih lanjut :
-
-[TBA](wa.com)
 
 ---
 ### Konsep Readable Code
@@ -41,7 +38,7 @@ Meaningful file & folder organization
 
 Bacaan lebih lanjut :
 
-[TBA](https://blog.codinghorror.com/coding-for-violent-psychopaths/)
+[Coding for psycho](https://blog.codinghorror.com/coding-for-violent-psychopaths/)
 
 ---
 ### Konsep SOLID, KISS & DRY
@@ -79,10 +76,6 @@ Apabila sebuah blok kode sudah digunakan beberapa kali ( +- 3 kali ) dalam sebua
 > Contoh :
 
 
-Bacaan lebih lanjut :
-
-[TBA](wa.com)
-
 ---
 ### Konsep OOP
 
@@ -105,7 +98,7 @@ Bacaan tambahan ( gunakan akun Flipbox untuk akses Udemy *course* ) :
 
 [Design Pattern Guide](https://www.udemy.com/draft/725258/learn/v4/content)
 
-[TBA](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
+[4 Major Principles of OOP](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
 
 ---
 ### Konsep Reactive Programming
@@ -120,7 +113,7 @@ Beberapa konsep utama yang harus dipahami dari sebuah paradigma *Reactive Progra
 
 Bacaan lebih lanjut :
 
-[TBA](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+[Reactive Programming Introduction](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ---
 
