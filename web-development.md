@@ -43,3 +43,9 @@ Lihat deskripsi selengkapnya di [Progressive Vue](https://github.com/flipboxstud
 - *Frontend* sudah melakukan optimalisasi *page speed* dan *SEO*
 - *Analytics* sudah terpasang dengan baik dan benar
 - Jangan lupa berdoa setelah berusaha
+
+---
+Bacaan tambahan ( gunakan akun Flipbox untuk akses Udemy *course* ) :
+
+- [ASP.NET MVC](https://www.udemy.com/the-complete-aspnet-mvc-5-course/learn/v4/overview)
+- [Understand TypeScript](https://www.udemy.com/understanding-typescript/learn/v4/overview)

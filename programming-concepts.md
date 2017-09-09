@@ -5,7 +5,20 @@ Bagian ini berisi rangkuman dan referensi dasar dasar pemrograman yang wajib dip
 ---
 ### Konsep Clean Code
 
-Deskripsi
+Focused
+
+Clear & concise
+
+Readable
+
+Minimal dependencies
+
+Have unit & acceptance test
+
+No redundancy
+
+
+> "Clean Code is a code that is written by someone who cares" - **Michael Feathers**
 
 Bacaan lebih lanjut :
 
@@ -14,33 +27,56 @@ Bacaan lebih lanjut :
 ---
 ### Konsep Readable Code
 
-Deskripsi
+Comment & Documentation when needed
+
+Consistent style
+
+Consistent naming scheme
+
+Avoid deep nesting
+
+Meaningful file & folder organization
+
+> "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live. Code for readability" - **John F Woods**
 
 Bacaan lebih lanjut :
 
-[TBA](wa.com)
+[TBA](https://blog.codinghorror.com/coding-for-violent-psychopaths/)
 
 ---
 ### Konsep SOLID, KISS & DRY
 
-Deskripsi
 
-KISS : Keep It Simple and Straightforward!
-Keep methods and classes as simple as possible.
--  Avoid nested or complex loop / conditional [ hard to read, hard to understand, hard to maintain ]
--  Avoid complex solution to a problem. Find balance between readability and performance. Use comments if necessary
+**KISS** :  Keep It Simple and Straightforward!
 
-DRY : Don’t Repeat Yourself!
-If a block of code is used > 3 times in your project, make a reusable / helper methods and use it instead of repeating the same code > 3 times
+Konsep KISS menyatakan bahwa kode yang dibuat harus sederhana dan mudah dipahami tanpa mengorbankan kualitas hasil akhir pengerjaan kode.
 
-SOLID PRINCIPLE
-Single responsibility -> [ A class should have only a single responsibility ]
-Open for extension but closed for modification -> [ entities should be open for extension but should not be modified ]
-Liskov substitution principles -> [ object can be replaced with its subtype without changing the program outcome ]
-Interface segregation principles ->[ specific - smaller interfaces are better. don’t force classes to implement unnecessary methods ]
-Dependency inversion principle -> [ details should depends on abstractions OR no class should derive from concrete/non-abstract class ]
+Beberapa hal yang harus diperhatikan dalam penerapan konsep KISS adalah :
 
+- *methods & classes* harus dibuat sesederhana mungkin.
+- Hindari kompleksitas dalam kondisi perulangan dan percabangan (*nested/complex loop & conditional*)
+- Hindari solusi yang terlalu kompleks atau kode yang terlalu singkat namun sulit untuk dibaca. Jangan pula mengorbankan performa demi mendapatkan baris kode yang mudah dibaca. Cari keseimbangan antara keduanya.
 
+**DRY** : Don’t Repeat Yourself!
+
+Apabila sebuah blok kode sudah digunakan beberapa kali ( +- 3 kali ) dalam sebuah proyek, buatlah *reusable/helper method* dan hapus duplikasi yang terjadi.
+
+**SOLID**
+
+- **Single responsibility** : Sebuah *class* hanya boleh memiliki 1 tanggung jawab. Jangan membuat sebuah *class* yang terlalu kompleks dan melakukan banyak hal sekaligus.
+> Contoh :
+
+- **Open for extension but closed for modification** : Fungsi atau kegunaan dalam sebuah entitas seharusnya bisa ditambahkan tanpa harus mengubah isi dari entitas tersebut
+> Contoh :
+
+- **Liskov substitution principles** : Sebuah *object* seharusnya dapat diganti oleh *object subtype* tanpa mengubah keluaran dari sebuah program
+> Contoh :
+
+- **Interface segregation principles** : *Interface* yang spesifik dan kecil lebih baik daripada *Interface* besar yang menyebabkan *class* harus menerapkan fungsi yang tidak dibutuhkan.
+> Contoh :
+
+- **Dependency inversion principle** : Detail harusnya bergantung pada abstraksi. Seharusnya tidak ada *class* yang diturunkan / *derived* dari *class* yang konkrit ( *non abstract* )
+> Contoh :
 
 
 Bacaan lebih lanjut :
@@ -50,20 +86,41 @@ Bacaan lebih lanjut :
 ---
 ### Konsep OOP
 
-Deskripsi
+Beberapa konsep utama yang harus dipahami dari sebuah paradigma OOP ( *Object Oriented Programming* ) adalah :
 
-Bacaan lebih lanjut :
+**Everything is an object**
 
-[TBA](wa.com)
+**Encapsulation**
+
+**Abstraction**
+
+**Inheritance**
+
+**Polymorphism**
+
+**Generics**
+
+
+Bacaan tambahan ( gunakan akun Flipbox untuk akses Udemy *course* ) :
+
+[Design Pattern Guide](https://www.udemy.com/draft/725258/learn/v4/content)
+
+[TBA](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
 
 ---
 ### Konsep Reactive Programming
 
-Deskripsi
+Beberapa konsep utama yang harus dipahami dari sebuah paradigma *Reactive Programming* adalah :
+
+**Everything is a stream**
+
+**Observer & Observable**
+
+**Subscriber**
 
 Bacaan lebih lanjut :
 
-[TBA](wa.com)
+[TBA](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ---
 

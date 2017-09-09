@@ -5,7 +5,6 @@ Bagian ini berisi tentang proses SCRUM yang berjalan di Flipbox, dan penerapanny
 ---
 ### SCRUM @ Flipbox
 
-**SCRUM** adalah ...
 
 SCRUM di Flipbox terbagi ke dalam beberapa proses utama
 

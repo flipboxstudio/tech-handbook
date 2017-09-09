@@ -4,7 +4,7 @@ Bagian ini berisi tentang proses _Pull Request_ yang berjalan di Flipbox, tata c
 
 ---
 
-### *Pull Request Manifesto*
+### *Pull Request Manifesto @ Flipbox*
 
 1. Tidak boleh ada proses development di dalam *branch* `develop` atau `master` - kedua *branch* tersebut hanya berfungsi untuk `merge, test & release` fitur yang sudah stabil
 2. Segera buat *Pull Request* setelah *branch* dibuat dan *remote push* sudah dilakukan.
@@ -34,7 +34,6 @@ Pilihan nama *branch* yang dapat digunakan adalah
 	- [ADD] deskripsi penambahan berkas yang dilakukan
 	- [UPDATE] deskripsi *update* yang dilakukan
 	- [FIX] deskripsi perbaikan yang dilakukan
-
 - [Git Cheatsheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [Rewrite Commit History](https://git-scm.com/book/id/v2/Git-Tools-Rewriting-History)
 - [Squash Published Commits](https://stackoverflow.com/questions/5667884/how-to-squash-commits-in-git-after-they-have-been-pushed)
