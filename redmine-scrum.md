@@ -13,6 +13,7 @@ SCRUM di Flipbox terbagi ke dalam beberapa proses utama
 - **_Pre Grooming_** : Proses diskusi _Tech Spec_ untuk menyamakan pendapat dan meminimalisir resiko salah asumsi
 - **_Grooming_** : Proses perencanaan sprint berjalan. Dalam proses ini dilakukan _Poker Planning_ untuk menentukan bobot setiap _Story_ yang telah ditentukan sebelumnya
 - **_Sprint_** : Proses pengembangan sistem berdasarkan _Stories_ yang telah ditentukan sebelumnya
+- **_Daily Standup_** : Proses diskusi di awal hari mengenai proses dan kendala yang dihadapi dalam pengembangan. Lihat deskripsi lebih lanjut di [Koordinasi Harian](https://github.com/flipboxstudio/tech-handbook/blob/develop/daily-coordination.md)
 - **_Sprint Retrospect_** : Proses evaluasi _Sprint_ sebelumnya. Dalam proses ini akan dilakukan identifikasi masalah dan solusi yang harus dilakukan ke depannya.
 
 ---

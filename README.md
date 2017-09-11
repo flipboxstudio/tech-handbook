@@ -21,16 +21,20 @@ Bagian ini berisi tentang proses _Pull Request_ yang berjalan di Flipbox, tata c
 
 - [Panduan untuk _Web Developer_](https://github.com/flipboxstudio/tech-handbook/blob/develop/web-development.md)
 
-Bagian ini berisi mengenai panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Flipbox.
+Bagian ini berisikan panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Flipbox.
 
 - [Panduan untuk _Mobile Developer_](https://github.com/flipboxstudio/tech-handbook/blob/develop/mobile-development.md)
 
-Bagian ini berisi mengenai panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Flipbox.
+Bagian ini berisikan panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Flipbox.
 
 - [Panduan untuk _Quality Assurance_](https://github.com/flipboxstudio/tech-handbook/blob/develop/quality-assurance.md)
 
-Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Flipbox.
+Bagian ini berisikan panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Flipbox.
 
 - [Panduan untuk _System Analyst_](https://github.com/flipboxstudio/tech-handbook/blob/develop/software-analysis.md)
 
-Bagian ini berisi mengenai deskripsi dokumen analisis yang ada di Flipbox, proses dan kesepakatan yang berlaku di Flipbox.
+Bagian ini berisi tentang deskripsi dokumen analisis yang ada di Flipbox, proses dan kesepakatan yang berlaku di Flipbox.
+
+- [Koordinasi Harian : Izin ketidakhadiran, bekerja dari rumah dll](https://github.com/flipboxstudio/tech-handbook/blob/develop/daily-coordination.md)
+
+Bagian ini berisikan tata cara dan ketentuan izin, bekerja dari rumah ( WFH ) dan koordinas lain terkait kegiatan pengembangan di hari kerja.
