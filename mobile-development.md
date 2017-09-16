@@ -20,3 +20,9 @@ Lihat selengkapnya di [sosoito](https://github.com/flipboxstudio/sosoito)
 
 Lihat deskripsi selengkapnya di [VIP Starter](https://github.com/flipboxstudio/vip-starter) dan [Panduan VIP Starter](http://flipbox.co.id/career/)
 
+---
+Bacaan tambahan ( gunakan akun Flipbox untuk akses Udemy *course* ) :
+
+- [Panduan Penggunaan Fabric](https://github.com/flipboxstudio/tech-handbook/blob/develop/fabric-guide.md)
+- [Stanford iPhone App Development 2017](https://www.youtube.com/playlist?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)
+- [100 Days of Google Dev](https://www.youtube.com/watch?v=32i7ot0y78U&list=PLOU2XLYxmsIJDPXCTt5TLDu67271PruEk)

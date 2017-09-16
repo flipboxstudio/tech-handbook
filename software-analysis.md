@@ -62,6 +62,22 @@ Masukkan dokumen *Tech Spec* ke dalam drive folder dengan menggunakan penamaan s
 - Nama berkas : Tech Spec [Nama Project] [Platform]
 
 ---
+
+### Dokumen *Technical Test Specification*
+
+Merupakan dokumen kolaborasi antara *System Analyst* dengan *Quality Assurance*. Dokumen ini menggabungkan antara *Tech Spec* dengan *Test Case* agar didapatkan proses yang efisien tanpa mengurangi kualitas dan informasi yang didapatkan dalam kedua dokument tersebut.
+
+*Technical Test Spec* dibuat untuk proyek yang sudah biasa dikerjakan dan tidak memiliki tingkat kesulitan khusus.
+
+Di dalam dokumen ini terdapat *sheet Tech Spec* yang akan diisi oleh *System Analyst*.
+
+Masukkan dokumen *Tech Spec* ke dalam drive folder dengan menggunakan penamaan sebagai berikut :
+
+- *Parent Folder* : [NAMA PROJECT] QUALITY
+- Nama folder : Technical Tech Spec
+- Nama berkas : TTS [Nama Project] [Platform]
+
+---
 ### Dokumen *Tech Doc*
 
 Kepanjangan dari *Technical Documentation*, dokumen ini berisi penjabaran teknis dari sistem yang telah diimplementasikan. Pembuatan dokumen ini dapat dilakukan dengan menggunakan *Google Drive Template* ( *New -> Google Docs -> From a template* )

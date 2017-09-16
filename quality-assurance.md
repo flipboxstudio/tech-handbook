@@ -2,7 +2,6 @@
 Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Flipbox.
 
 ---
-
 ### *Automated Testing*
 
 Tes otomatis dilakukan dengan menggunakan *Katalon Studio* dan *Groovy* sebagai bahasa pemrogramannya.
@@ -14,7 +13,7 @@ Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan tes otomatis adal
 - Gunakan fasilitas *Custom Keywords* untuk pembuatan *reusable function* dan pembuatan kelas *Model*
 
 ---
-### *Manual Testing*
+### *Manual Testing & Test Case Document*
 
 Tes manual dilakukan dengan menggunakan dokumen *Test Case* untuk panduan langkah langkah testing. 
 
@@ -28,6 +27,21 @@ Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan tes manual adalah
 	- *Test Case Folder* : Test Case Sprint X
 	- Nama berkas : Test Case [Nama Project] [Platform]
 	- Atur dokumen berdasarkan tanggal pengisian
+
+---
+### Dokumen *Technical Test Specification*
+
+Merupakan dokumen kolaborasi antara *Quality Assurance* dengan *System Analyst*. Dokumen ini menggabungkan antara *Tech Spec* dengan *Test Case* agar didapatkan proses yang efisien tanpa mengurangi kualitas dan informasi yang didapatkan dalam kedua dokument tersebut.
+
+*Technical Test Spec* dibuat untuk proyek yang sudah biasa dikerjakan dan tidak memiliki tingkat kesulitan khusus.
+
+Di dalam dokumen ini terdapat *sheet Test Case* yang akan diisi oleh *Quality Assurance*.
+
+Masukkan dokumen *Tech Spec* ke dalam drive folder dengan menggunakan penamaan sebagai berikut :
+
+- *Parent Folder* : [NAMA PROJECT] QUALITY
+- Nama folder : Technical Tech Spec
+- Nama berkas : TTS [Nama Project] [Platform]
 
 ---
 ### Dokumen *User Manual*
@@ -47,6 +61,7 @@ Masukkan dokumen manual penggunaan sistem ke dalam drive folder dengan menggunak
 ---
 Bacaan tambahan ( gunakan akun Flipbox untuk akses Udemy *course* ) :
 
+- [Panduan Penggunaan Fabric](https://github.com/flipboxstudio/tech-handbook/blob/develop/fabric-guide.md)
 - [Java for Tester](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview)
 - [Selenium WebDriver using Java](https://www.udemy.com/selenium-real-time-examplesinterview-questions/learn/v4/overview)
 - [Katalon Studio Tutorial](http://toolsqa.com/katalon-studio-tutorial/)
