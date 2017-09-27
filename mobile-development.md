@@ -18,5 +18,5 @@ Lihat selengkapnya di [sosoito](https://github.com/flipboxstudio/sosoito)
 
 *VIP Starter* merupakan standar arsitektur proyek berbasis iOS yang dikembangkan di Flipbox. Arsitektur ini mengadopsi konsep [Clean Swift](http://clean-swift.com/) dengan penambahan beberapa fungsi lain untuk membantu pengembangan aplikasi menjadi lebih cepat dan stabil.
 
-Lihat deskripsi selengkapnya di [VIP Starter](https://github.com/flipboxstudio/vip-starter) dan [Panduan VIP Starter](http://flipbox.co.id/career/)
+Lihat deskripsi selengkapnya di [VIP Starter](https://github.com/flipboxstudio/vip-starter) dan [Panduan VIP Starter](https://github.com/flipboxstudio/tech-handbook/blob/master/ios-development-style-guide.md)
 
