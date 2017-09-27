@@ -45,7 +45,7 @@ VIP adalah satu set Xcode Templates untuk menghasilkan komponen Clean Architectu
 #### Presenter
 
 * Berisi `ViewLogic`
-* Memformat ulang data dari `interactor` dan mengirimkan ke `ViewController.
+* Memformat ulang data dari `interactor` dan mengirimkan ke `ViewController`.
 
 #### View
 
