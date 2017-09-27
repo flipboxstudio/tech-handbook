@@ -2,7 +2,7 @@
 sebuah proyek iOS menggunakan Arsitektur VIP (View Interactor Presenter)
 
 ### Cara penggunaan
-instal template dari [clean-swift.com](https://clean-swift.com/), untuk menghasilkan  `scene` baru : `New File` -> `iOS` -> `Clean Swift` -> `Scene` -> `Masukkan Nama Scene Anda`
+instal template dari [clean-swift.com](https://clean-swift.com/) setelah download template tersebut buka directory template di terminal dan `make install_templates` untuk instal template, untuk menghasilkan  `scene` baru : `New File` -> `iOS` -> `Clean Swift` -> `Scene` -> `Masukkan Nama Scene Anda`
 
 ### `Library` yang digunakan:
 * Fabric
