@@ -7,7 +7,7 @@ Bagian ini berisi mengenai panduan untuk membuat kode baik, penjelasan arsitektu
 
 *MVVM Starter* merupakan standar arsitektur proyek berbasis Android yang dikembangkan di Flipbox. Sesuai dengan namanya, arsitektur ini mengadopsi konsep MVVM dengan penambahan beberapa fungsi lain untuk membantu pengembangan aplikasi menjadi lebih cepat dan stabil.
 
-Lihat deskripsi selengkapnya di [MVVM Starter](https://github.com/flipboxstudio/mvvm-starter) dan [Panduan MVVM Starter](http://flipbox.co.id/career/)
+Lihat deskripsi selengkapnya di [MVVM Starter](https://github.com/flipboxstudio/mvvm-starter) dan [Panduan MVVM Starter](https://github.com/flipboxstudio/tech-handbook/blob/develop/android-development-guide.md)
 
 #### Pustaka : Sosoito
 Lihat selengkapnya di [sosoito](https://github.com/flipboxstudio/sosoito)
