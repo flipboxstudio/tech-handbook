@@ -5,7 +5,6 @@ Berikut merupakan panduan dalam mengembangkan proyek android menggunakan [MVVM S
 2. Recommended Library
 3. Packaging & Naming
 4. App Flow
-5. Git procedure
 ---
 ## 1. Environment
 Default environment & utility tools:
@@ -103,16 +102,19 @@ Beberapa aturan lainnya yang perlu diperhatikan ialah:
 
 ## 4. App Flow
 Hubungan alur dalam app yang saat ini digunakan.
-![](https://i.imgur.com/XqBTXAU.png)
+![](https://i.imgur.com/gfAjZ37.png)
 
 Selain itu, dalam mengembangkan produk terdapat beberapa aturan yang dianjurkan untuk dipatuhi, yakni:
+**Dependency Rule**
+![](https://i.imgur.com/2PbEOil.png)
+
 **Visual**
   - Buat reusable component.
   - Kumpulkan warna/ukuran/kata dalam satu file (ex: values/colors.xml).
 
 **Activity/Fragment**
   - Implementasi BaseMethod.java.
-  - Paham & ikuti lifecycle.
+  - Pahami & ikuti lifecycle.
   - Buat activity untuk flow placeholder (jika terasa gemuk silahkan pisahkan).
   - Tipe activity yang digunakan Fragments holder, ViewPager holder, & UI container.
 
@@ -130,22 +132,3 @@ Selain itu, dalam mengembangkan produk terdapat beberapa aturan yang dianjurkan 
   - File I.java untuk variable konstan dalam Integer.
   - File K.java untuk variable konstant selain Integer (ex: Key value).
   - Gunakan String.format untuk kebutuhan format daripada operator "+".
----
-
-## 5. Git procedure
-Untuk meminimalisir terjadinya bug & memaksimalkan kualitas produk & code, dalam pengembangan proyek diimplementasikan **Merge/Pull Request** flow. Dalam flow ini terdapat tiga peran utama, yakni:
-- **Captain**: Code reviewer & decision maker.
-- **QA**: Feature/function reviewer.
-- **Member**: Developer.
-
-![](https://i.imgur.com/qNyLVwx.png)
-
-Berikut merupakan aturan untuk penggunaan git dalam repositori proyek flipbox.
-1. JANGAN MELAKUKAN PUSH ke `master` atau `develop`.
-2. Jika Merge/Pull Request memiliki Conflict pada branch tujuan maka akan ditolak.
-3. `hotfix` akan membuat Merge/Pull Request ke `master` dan `story`.
-4. Untuk penamaan branch gunakan prefix : `story` , `task` , `bug` , `hotfix`
--- extra --
-5. Untuk branch `story` yang besar harap dipecah menjadi beberapa branch `task` lalu merge ke `story` sebelum membuat merge ke `develop`
-6. Captain harus merge di lokal. Tidak disarankan menggunakan web GUI. Hapus sumber branch di remote setelah merge.
-7. Captain satu-satunya yang dapat memanajemen release. Captain bisa saja membuat branch `release` yang berisi permintaan tambahan ke developer sebelum di merge ke `develop` dan `master`.

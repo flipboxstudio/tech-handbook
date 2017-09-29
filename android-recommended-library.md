@@ -5,7 +5,7 @@ Berikut merupakan kumpulan library yang diharapkan membantu pengembangan.
 - [Bottom-bar helper](https://github.com/roughike/BottomBar)
 - [Circle indicator](https://github.com/ongakuer/CircleIndicator)
 - [Debug helper](http://facebook.github.io/stetho/)
-- [Recycleview helper](https://github.com/jianghejie/XRecyclerView)
+- [Recyclerview helper](https://github.com/jianghejie/XRecyclerView)
 - [Memory leak detector](https://github.com/square/leakcanary)
 - [Android db helper](http://greenrobot.org/greendao)
 
