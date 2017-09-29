@@ -31,7 +31,7 @@ Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan tes manual adalah
 ---
 ### Dokumen *Technical Test Specification*
 
-Merupakan dokumen kolaborasi antara *Quality Assurance* dengan *System Analyst*. Dokumen ini menggabungkan antara *Tech Spec* dengan *Test Case* agar didapatkan proses yang efisien tanpa mengurangi kualitas dan informasi yang didapatkan dalam kedua dokument tersebut.
+Merupakan dokumen kolaborasi antara *Quality Assurance* dengan *System Analyst*. Dokumen ini menggabungkan antara *Tech Spec* dengan *Test Case* agar didapatkan proses yang efisien tanpa mengurangi kualitas dan informasi yang didapatkan dalam kedua dokument tersebut. Pembuatan dokumen ini dapat dilakukan dengan menggunakan *Google Drive Template* ( *New -> Google Sheets -> From a template* )
 
 *Technical Test Spec* dibuat untuk proyek yang sudah biasa dikerjakan dan tidak memiliki tingkat kesulitan khusus.
 

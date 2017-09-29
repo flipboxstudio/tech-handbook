@@ -22,7 +22,7 @@ Beberapa hal yang sebaiknya didiskusikan pada saat *Standup* :
 - **Izin Terlambat** : Individu yang berhalangan hadir tepat waktu harus menginformasikan alasan keterlambatan dan waktu kehadiran kepada kepala divisi masing masing sebelum jam 9. Apabila keterlambatan disetujui, individu terkait harus mengirimkan email kepada tim sebelum jam 9:30.
 - **Izin Sakit** : Individu yang berhalangan masuk dikarenakan sakit harus melaporkan keterangan sakit kepada kepala divisi dan tim secepat mungkin. Sakit lebih dari 1 hari harus melampirkan surat dokter dan diharapkan langsung melapor ke tim bisnis untuk proses *reimbursement*. 
 - **Izin Lain** : Dalam keadaan tertentu, individu berhak mengajukan izin. Proses ini harus didiskusikan terlebih dahulu dengan kepala divisi dan tim terkait.
-- **Cuti** : Cuti harus didiskusikan dengan kepala divisi paling lambat H-14 sebelum cuti diambil. Apabila disetujui, form cuti harus diisi dan disampaikan ke tim bisnis paling lambat H-4 sebelum cuti diambil.
+- **Cuti** : Cuti harus didiskusikan dengan kepala divisi paling lambat H-14 sebelum cuti diambil. Pengajuan cuti harus melalui form cuti yang diisi dan disampaikan dalam bentuk berkas *google drive*  ataupun berkas fisik yang nantinya akan diubah ke dalam bentuk digital kembali. Apabila disetujui, form cuti harus diisi dan disampaikan ke tim bisnis paling lambat H-4 sebelum cuti diambil.
 
 ---
 ### **Tata Cara Kerja dari Rumah (WFH)**
@@ -31,6 +31,7 @@ Flipbox mempunyai kebijakan Kerja dari Rumah sebanyak maksimal 2x dalam 1 bulan.
 
 - Kerja dari Rumah dan Cuti tidak boleh berada di dalam minggu yang sama
 - Kerja dari Rumah hanya bisa diambil 1x setiap minggunya
+- Kerja dari Rumah harus didiskusikan dengan rekan 1 divisi. Dalam 1 hari, hanya diperbolehkan maksimal 50% dari jumlah anggota divisi yang melakukan WFH.
 - Dalam keadaan tertentu, kepala divisi boleh memberikan bonus Kerja dari Rumah. Hal ini harus didiskusikan dengan PM dan tim terkait.
 - Kerja dari Rumah harus disetujui oleh kepala divisi dan tim terkait maksimal H-1 dan email pemberitahuan harus dikirimkan maksimal H-1 sebelum jam 3 sore.
 - Email pemberitahuan Kerja dari Rumah berisi jam kerja aktif, *task Redmine* yang akan diselesaikan, dan keterangan tambahan lain yang relevan.
@@ -42,8 +43,8 @@ Slip kuning adalah sebuah mekanisme pencatatan dan sanksi kepada individu yang m
 
 Tindakan indisipliner yang akan mendapat slip kuning adalah :
 
-- Terlambat tanpa izin
-- Tidak mengisi Howdy
+- Melakukan izin, WFH, ataupun cuti tanpa mengikuti kaidah yang berlaku
+- Tidak melakukan komunikasi dengan [Howdy](https://howdy.ai/) pada waktu yang telah ditentukan
 - WFH, namun tidak merespon pertanyaan ( toleransi waktu 30 menit ) pada jam aktif yang telah diinformasikan
 - Tidak melakukan proses *update* Redmine sesuai tugas masing masing
 

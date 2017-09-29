@@ -65,7 +65,7 @@ Masukkan dokumen *Tech Spec* ke dalam drive folder dengan menggunakan penamaan s
 
 ### Dokumen *Technical Test Specification*
 
-Merupakan dokumen kolaborasi antara *System Analyst* dengan *Quality Assurance*. Dokumen ini menggabungkan antara *Tech Spec* dengan *Test Case* agar didapatkan proses yang efisien tanpa mengurangi kualitas dan informasi yang didapatkan dalam kedua dokument tersebut.
+Merupakan dokumen kolaborasi antara *System Analyst* dengan *Quality Assurance*. Dokumen ini menggabungkan antara *Tech Spec* dengan *Test Case* agar didapatkan proses yang efisien tanpa mengurangi kualitas dan informasi yang didapatkan dalam kedua dokument tersebut. Pembuatan dokumen ini dapat dilakukan dengan menggunakan *Google Drive Template* ( *New -> Google Sheets -> From a template* )
 
 *Technical Test Spec* dibuat untuk proyek yang sudah biasa dikerjakan dan tidak memiliki tingkat kesulitan khusus.
 
