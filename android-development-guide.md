@@ -102,11 +102,11 @@ Beberapa aturan lainnya yang perlu diperhatikan ialah:
 
 ## 4. App Flow
 Hubungan alur dalam app yang saat ini digunakan.
-![](https://i.imgur.com/gfAjZ37.png)
+![](https://i.imgur.com/XqBTXAU.png)
 
 Selain itu, dalam mengembangkan produk terdapat beberapa aturan yang dianjurkan untuk dipatuhi, yakni:
 **Dependency Rule**
-![](https://i.imgur.com/2PbEOil.png)
+![](https://i.imgur.com/gfAjZ37.png)
 
 **Visual**
   - Buat reusable component.
