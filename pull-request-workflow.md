@@ -1,8 +1,16 @@
 # Kolaborasi dan Review menggunakan *Pull Request*
 
-Bagian ini berisi tentang proses _Pull Request_ yang berjalan di Flipbox, tata cara dan kesepakatan yang berlaku.
+Bagian ini berisi tentang proses _Pull Request_ yang berjalan di Flipbox, tata cara dan kesepakatan yang berlaku. 
 
 ---
+### *Main Cast*
+
+Dalam proses _Pull Request_ ini terdapat tiga peran utama, yakni:
+- **Captain**: *Code reviewer & decision maker* (pengembang utama).
+- **QA**: *Feature/function reviewer*.
+- **Member**: *Developer* (pengembang).
+
+![](https://i.imgur.com/qNyLVwx.png)
 
 ### *Pull Request Manifesto @ Flipbox*
 
