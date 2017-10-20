@@ -28,7 +28,6 @@ VIP adalah satu set Xcode Templates untuk menghasilkan komponen Clean Architectu
 ## VIP Component
 
 #### View Controller
-* ViewController containts display logic
 * `ViewController` berisi `display logic`
 * untuk bikin `scene` baru : `New File` -> `iOS` -> `Clean Swift` -> `Scene` -> `Input Scene Name`
 * Terapkan `UIViewController` atau `Base__ViewController`
