@@ -19,7 +19,7 @@ VIP adalah satu set Xcode Templates untuk menghasilkan komponen Clean Architectu
 #### Key Points VIP Cycle
 
 * `ViewController` menerima aktivitas pengguna, membuat objek permintaan, mengirimkannya ke `Interactor`.
-* The interactor melakukan beberapa pekerjaan dengan `request`, membangun objek respon, dan mengirimkannya ke presenter.
+* Interactor melakukan beberapa pekerjaan dengan `request`, membangun objek respon, dan mengirimkannya ke presenter.
 * Presenter memformat data dari `response`, dan membangun `view model object` dan mengirimkan ke `ViewController`.
 * `ViewController` menampilkan hasil yang ada di `ViewModel` ke pengguna.
 
