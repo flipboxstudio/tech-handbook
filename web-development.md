@@ -37,6 +37,7 @@ Lihat deskripsi selengkapnya di [Progressive Vue](https://github.com/flipboxstud
 ### *Deployment Checklist*
 
 - SSL sudah terpasang
+- API sudah melewati *integration test*
 - API sudah melewati *stress test*
 - Tidak ada variabel yang masih menggunakan `development environment`
 - API & server monitoring sudah terpasang

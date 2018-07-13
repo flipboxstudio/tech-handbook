@@ -4,13 +4,13 @@ Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskrips
 ---
 ### *Automated Testing*
 
-Tes otomatis dilakukan dengan menggunakan *Katalon Studio* dan *Groovy* sebagai bahasa pemrogramannya.
+Tes otomatis dilakukan dengan menggunakan *supertest* untuk API testing dan *artilerry.io* untuk stress testing.
 
 Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan tes otomatis adalah :
 
-- Masukkan *Test Case* dan *Object Repository* dalam folder yang relevan untuk memudahkan organisasi kode
-- Buat *Test Suite* dengan kombinasi beberapa *Test Case* agar menghasilkan tes yang mencakup  keseluruhan skenario
-- Gunakan fasilitas *Custom Keywords* untuk pembuatan *reusable function* dan pembuatan kelas *Model*
+- Pastikan data yang dibutuhkan tersedia, apabila diperlukan buat data dummy terlebih dahulu
+- Pastikan skenario yang dibuat sudah mencakup berbagai kondisi, meliputi *positive case* , *negative case*  dan validasi data masuk/keluar ataupun data kosong
+- Pastikan bahwa komunikasi selalu terjalin baik dengan developer untuk menghindari miskomunikasi dan automated testing bisa diselesaikan sebelum development PR
 
 ---
 ### *Manual Testing & Test Case Document*
@@ -62,6 +62,3 @@ Masukkan dokumen manual penggunaan sistem ke dalam drive folder dengan menggunak
 Bacaan tambahan ( gunakan akun Flipbox untuk akses Udemy *course* ) :
 
 - [Panduan Penggunaan Fabric](https://github.com/flipboxstudio/tech-handbook/blob/develop/fabric-guide.md)
-- [Java for Tester](https://www.udemy.com/complete-java-for-test-automation/learn/v4/overview)
-- [Selenium WebDriver using Java](https://www.udemy.com/selenium-real-time-examplesinterview-questions/learn/v4/overview)
-- [Katalon Studio Tutorial](http://toolsqa.com/katalon-studio-tutorial/)

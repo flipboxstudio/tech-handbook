@@ -35,6 +35,14 @@ Pilihan nama *branch* yang dapat digunakan adalah
 - **improvement**/[nomor redmine] [deskripsi]
 - **bug**/[nomor redmine] [deskripsi]
 - **hotfix**/[nomor redmine] [deskripsi]
+
+**Notes**
+
+Untuk repository yang tidak akan mengalami banyak pengembangan ( one and done ), harap menggunakan branching berikut
+
+- **master**  : cukup jelas
+- **develop** : hasil pengembangan dari branch `latest` akan di-merge kesini
+- **latest** : seluruh pengembangan akan dilakukan di branch ini dan PR akan dibuat ke `develop`
  
 ### Konsep Git
 

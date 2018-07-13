@@ -1,11 +1,11 @@
 # Koordinasi Harian 
 
-Bagian ini berisikan tata cara dan ketentuan izin, bekerja dari rumah ( WFH ) dan koordinas lain terkait kegiatan pengembangan di hari kerja.
+Bagian ini berisikan tata cara dan ketentuan izin, bekerja dari rumah ( WFH ) dan koordinasi lain terkait kegiatan pengembangan di hari kerja.
 
 ---
 ### **_Daily Standup_**
 
-*Daily Standup* dilakukan setiap pagi di antara rentang waktu 10:30 - 11:00. Setiap individu di dalam tim akan mendapatkan kesempatan untuk memimpin jalannya *Standup* ( sukarela / bergiliran ). Apabila tidak ada sukarelawan untuk memimpin *Standup* esok hari, pemimpin *Standup* boleh menunjuk individu lain.
+*Daily Standup* dilakukan setiap pagi di antara rentang waktu 09:00. Setiap individu di dalam tim akan mendapatkan kesempatan untuk memimpin jalannya *Standup* ( sukarela / bergiliran ). Apabila tidak ada sukarelawan untuk memimpin *Standup* esok hari, pemimpin *Standup* boleh menunjuk individu lain.
 
 Beberapa hal yang sebaiknya didiskusikan pada saat *Standup* :
 
@@ -27,7 +27,7 @@ Beberapa hal yang sebaiknya didiskusikan pada saat *Standup* :
 ---
 ### **Tata Cara Kerja dari Rumah (WFH)**
 
-Flipbox mempunyai kebijakan Kerja dari Rumah sebanyak maksimal 2x dalam 1 bulan. Individu yang ingin mengambil Kerja dari Rumah harus memperhatikan beberapa hal berikut :
+Medigo mempunyai kebijakan Kerja dari Rumah sebanyak maksimal 2x dalam 1 bulan. Individu yang ingin mengambil Kerja dari Rumah harus memperhatikan beberapa hal berikut :
 
 - Kerja dari Rumah dan Cuti tidak boleh berada di dalam minggu yang sama
 - Kerja dari Rumah hanya bisa diambil 1x setiap minggunya

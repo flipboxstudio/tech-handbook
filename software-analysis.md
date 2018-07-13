@@ -1,5 +1,5 @@
 # Panduan untuk *System Analyst*
-Bagian ini berisi mengenai deskripsi dokumen analisis yang ada di Flipbox, proses dan kesepakatan yang berlaku di Flipbox.
+Bagian ini berisi mengenai deskripsi dokumen analisis yang ada di Medigo, proses dan kesepakatan yang berlaku di Medigo.
 
 ---
 
