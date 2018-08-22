@@ -1,7 +1,6 @@
-# FLIPBOX API STANDARD
+# MEDIGO API STANDARD
 
-
-Seluruh deskripsi di bawah merupakan standar dari API yang dibuat oleh Flipbox dan telah melewati diskusi bersama.
+Seluruh deskripsi di bawah merupakan standar dari API yang dibuat oleh Medigo Indonesia dan telah melewati diskusi bersama.
 
 ## KETENTUAN UMUM
 * Menggunakan versi dalam URLnya | contohnya `http://example.com/api/android/v1` 
@@ -22,6 +21,7 @@ Seluruh deskripsi di bawah merupakan standar dari API yang dibuat oleh Flipbox d
 
 * Nilai data yang dikembalikan harus sesuai dengan tipenya ( apabila tipenya DOUBLE jangan mengembalikan STRING, apabila tipenya OBJECT jangan mengembalikan ARRAY dll )
 * Hindari pengembalian null value apabila sangat tidak terpaksa
+* Sebelum pengembalian data, harus ada validasi response untuk memastikan tidak hilangnya data yang dibutuhkan
 
 ## List Request
 

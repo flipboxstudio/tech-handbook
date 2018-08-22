@@ -1,5 +1,5 @@
 # Panduan Android Development (*MVVM Starter*)
-Berikut merupakan panduan dalam mengembangkan proyek android menggunakan [MVVM Starter](https://github.com/flipboxstudio/mvvm-starter).
+Berikut merupakan panduan dalam mengembangkan proyek android menggunakan [MVVM Starter](https://github.com/medigoid/mvvm-starter).
 #### Konten:
 1. Environment
 2. Recommended Library
@@ -15,7 +15,7 @@ Default environment & utility tools:
 - Marvel
 ---
 ## 2. Recommended Library
-Selain default library yang digunakan di mvvm starter, [Kumpulan library](https://github.com/flipboxstudio/tech-handbook/blob/develop/android-recommended-library.md) berikut mungkin akan digunakan tergantung dari desain & kebutuhan proyek.
+Selain default library yang digunakan di mvvm starter, [Kumpulan library](https://github.com/medigoid/tech-handbook/blob/develop/android-recommended-library.md) berikut mungkin akan digunakan tergantung dari desain & kebutuhan proyek.
 
 ---
 

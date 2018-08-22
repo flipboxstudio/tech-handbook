@@ -1,6 +1,6 @@
 # Kolaborasi dan Review menggunakan *Pull Request*
 
-Bagian ini berisi tentang proses _Pull Request_ yang berjalan di Flipbox, tata cara dan kesepakatan yang berlaku. 
+Bagian ini berisi tentang proses _Pull Request_ yang berjalan di Medigo, tata cara dan kesepakatan yang berlaku. 
 
 ---
 ### *Main Cast*
@@ -12,7 +12,7 @@ Dalam proses _Pull Request_ ini terdapat tiga peran utama, yakni:
 
 ![](https://i.imgur.com/qNyLVwx.png)
 
-### *Pull Request Manifesto @ Flipbox*
+### *Pull Request Manifesto @ Medigo*
 
 1. Tidak boleh ada proses development di dalam *branch* `develop` atau `master` - kedua *branch* tersebut hanya berfungsi untuk `merge, test & release` fitur yang sudah stabil
 2. Segera buat *Pull Request* setelah *branch* dibuat dan *remote push* sudah dilakukan.

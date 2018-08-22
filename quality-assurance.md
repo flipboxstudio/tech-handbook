@@ -1,10 +1,10 @@
 # Panduan untuk *Quality Assurance*
-Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Flipbox.
+Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Medigo.
 
 ---
 ### *Automated Testing*
 
-Tes otomatis dilakukan dengan menggunakan *supertest* untuk API testing dan *artilerry.io* untuk stress testing.
+Tes otomatis dilakukan dengan menggunakan *supertest* untuk API testing dan *artilerry.io* untuk load testing.
 
 Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan tes otomatis adalah :
 
@@ -59,6 +59,6 @@ Masukkan dokumen manual penggunaan sistem ke dalam drive folder dengan menggunak
 - Jika dibutuhkan, masukkan berkas ke dalam folder bernama *User Manual*
 
 ---
-Bacaan tambahan ( gunakan akun Flipbox untuk akses Udemy *course* ) :
+Bacaan tambahan ( gunakan akun Medigo untuk akses Udemy *course* ) :
 
-- [Panduan Penggunaan Fabric](https://github.com/flipboxstudio/tech-handbook/blob/develop/fabric-guide.md)
+- [Panduan Penggunaan Fabric](https://github.com/medigoid/tech-handbook/blob/develop/fabric-guide.md)
