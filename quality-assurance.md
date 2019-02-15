@@ -59,6 +59,47 @@ Masukkan dokumen manual penggunaan sistem ke dalam drive folder dengan menggunak
 - Jika dibutuhkan, masukkan berkas ke dalam folder bernama *User Manual*
 
 ---
+
+### *RULES Untuk Report Bugs*
+
+Ketika tim QA menemukan bugs atau ada yang harus diimprove di dalam aplikasi, ada *standar report* yang harus diperhatikan: 
+
+*BUGS*
+- *How to Reproduce*	: berisi step by step bagaimana mendapatkan bugs tersebut.
+- *Actual Result*	: berisi output dari step yang dijalankan.
+- *Expected Result*	: berisi output yang semestinya (yang benar)
+- *Extra Information*	: bisa berupa *screenshot* atau *credential* yang digunakan untuk testing
+
+*IMPROVEMENT*
+- *What to improve*	: bagian apa saja yang harus di improve
+- *How to improve*	: menjelaskan bagaimana itu harus di improve
+
+---
+  
+### FLOW REVIEW *PR (PULL REQUEST)* 
+
+Peran tim *Quality Assurance* dalam *Pull Request* adalah untuk me-review fitur baru atau bugfix berjalan sebagaimana mestinya sebelum merge ke develop atau master. Beberapa hal yang perlu diperhatikan dalam *Pull Request* ini adalah:
+
+- Pastikan tidak ada *Conflict* di dalam *Pull Request* tersebut. Jika ada *Conflict* beritahukan ke developer terkait untuk segera resolve *Conflict* . 
+- Pipeline *Passed* (berlaku untuk semua *Pull Request*).
+- Jika pipeline *Failed* karena *API test script*, cek kembali *test script* apakah masih relevan atau perlu *update*
+- Apabila menggunakan *Server Latest* untuk *testing pull request* , pastikan branch terkait berada di paling atas
+- *Pull Request* baru bisa di merge oleh tim QA setelah mendapatkan *Approval* dari *QA* yang diassign dan *Captain* dari tim dev yang ditunjuk untuk *review code*
+- Ketika *merge* branch, pastikan ceklis bagian *Close Source Branch*
+
+Tim *QA* juga berhak melakukan *Decline Pull Request* dengan ketentuan sebagai berikut:
+
+- Tidak ada *File Changes* di dalam *Pull Request* (*File Changes 0*).
+- *File Duplicate*. Jika terdapat 2 PR berisi *file changes* yang sama, maka salah satu dapat di *Decline*. Dan pastikan bahwa terdapat penjelasan *pull request* yang di *decline* terkait atau sama dengan *pull request* mana.
+- Jumlah *file changes* terlalu banyak. Ada ketentuan maksimal jumlah *file changes* dalam 1 *Pull Request* :
+	- *Web dan IOS : +/- 50 file changes*
+	- *Android     : +/- 30 file changes*
+- Tidak ada *description* didalam *pull request*. Minimal harus ada *Commit messages* 
+- Sebelum melakukan *decline*, komunikasikan terlebih dahulu dengan developer yang bersangkutan. 
+
+
+---
+
 Bacaan tambahan ( gunakan akun Medigo untuk akses Udemy *course* ) :
 
 - [Panduan Penggunaan Fabric](https://github.com/medigoid/tech-handbook/blob/develop/fabric-guide.md)
