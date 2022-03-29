@@ -24,7 +24,7 @@ increments.
 ---
 ### Azure Devops @ Klinik Pintar
 
-Dalam proses menjalankan SCRUM, Medigo menggunakan sistem kolaborasi yang bernama Azure Devops. Berikut adalah hal hal penting yang harus dipahami dalam penggunaan Azure Devops
+Dalam proses menjalankan SCRUM, Klinik Pintar menggunakan sistem kolaborasi yang bernama Azure Devops. Berikut adalah hal hal penting yang harus dipahami dalam penggunaan Azure Devops
 
 **JENIS TASK**
 

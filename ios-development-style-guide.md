@@ -1,5 +1,5 @@
-# Medigo iOS Development Style
-proyek Medigo iOS ini menggunakan Arsitektur VIP (View Interactor Presenter) / Clean Swift
+# Klinik Pintar iOS Development Style
+proyek Klinik Pintar iOS ini menggunakan Arsitektur VIP (View Interactor Presenter) / Clean Swift
 
 ### Cara penggunaan
 instal template dari [clean-swift.com](https://clean-swift.com/) setelah download template tersebut buka directory template di terminal dan `make install_templates` untuk instal template, untuk menghasilkan  `scene` baru : `New File` -> `iOS` -> `Clean Swift` -> `Scene` -> `Masukkan Nama Scene Anda`
@@ -18,7 +18,7 @@ instal template dari [clean-swift.com](https://clean-swift.com/) setelah downloa
 * RxCocoa
 
 ### `Product` yang sekarang ada :
-* Medigo
+* Klinik Pintar
 * IHC Mobile 
 * Pasien Pintar (soon)
 * RSCM (soon)
