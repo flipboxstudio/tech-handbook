@@ -10,9 +10,9 @@ Dokumen ini terbagi ke dalam beberapa bagian utama
 
 Bagian ini berisi rangkuman dan referensi dasar dasar pemrograman yang wajib dipahami oleh seluruh tim teknis Medigo Indonesia.
 
-- [Penggunaan Redmine & tata cara SCRUM](https://github.com/medigoid/tech-handbook/blob/develop/redmine-scrum.md)
+- [Panduan SCRUM](https://github.com/medigoid/tech-handbook/blob/develop/scrum.md)
 
-Bagian ini berisi tentang proses SCRUM yang berjalan di Medigo Indonesia, dan penerapannya di sistem kolaborasi yang digunakan ( Redmine )
+Bagian ini berisi tentang proses SCRUM yang berjalan di Medigo Indonesia, dan penerapannya di sistem kolaborasi yang digunakan
 
 - [Kolaborasi & Review menggunakan _Pull Request_](https://github.com/medigoid/tech-handbook/blob/develop/pull-request-workflow.md)
 
