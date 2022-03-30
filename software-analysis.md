@@ -1,5 +1,5 @@
 # Panduan untuk *System Analyst*
-Bagian ini berisi mengenai deskripsi dokumen analisis yang ada di Medigo, proses dan kesepakatan yang berlaku di Medigo.
+Bagian ini berisi mengenai deskripsi dokumen analisis yang ada di Klinik Pintar, proses dan kesepakatan yang berlaku di Klinik Pintar.
 
 ---
 

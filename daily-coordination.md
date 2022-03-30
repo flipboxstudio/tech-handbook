@@ -27,7 +27,7 @@ Beberapa hal yang sebaiknya didiskusikan pada saat *Standup* :
 ---
 ### **Tata Cara Kerja dari Rumah (WFH)**
 
-Medigo mempunyai kebijakan Kerja dari Rumah sebanyak maksimal 2x dalam 1 bulan. Individu yang ingin mengambil Kerja dari Rumah harus memperhatikan beberapa hal berikut :
+Klinik Pintar mempunyai kebijakan Kerja dari Rumah sebanyak maksimal 2x dalam 1 bulan. Individu yang ingin mengambil Kerja dari Rumah harus memperhatikan beberapa hal berikut :
 
 - Kerja dari Rumah dan Cuti tidak boleh berada di dalam minggu yang sama
 - Kerja dari Rumah hanya bisa diambil 1x setiap minggunya

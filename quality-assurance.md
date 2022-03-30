@@ -1,5 +1,5 @@
 # Panduan untuk *Quality Assurance*
-Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Medigo.
+Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Klinik Pintar.
 
 ---
 ### *Automated Testing*
@@ -100,6 +100,6 @@ Tim *QA* juga berhak melakukan *Decline Pull Request* dengan ketentuan sebagai b
 
 ---
 
-Bacaan tambahan ( gunakan akun Medigo untuk akses Udemy *course* ) :
+Bacaan tambahan ( gunakan akun Klinik Pintar untuk akses Udemy *course* ) :
 
 - [Panduan Penggunaan Fabric](https://github.com/medigoid/tech-handbook/blob/develop/fabric-guide.md)
