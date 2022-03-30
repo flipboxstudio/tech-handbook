@@ -37,7 +37,3 @@ Bagian ini berisi tentang deskripsi dokumen analisis yang ada di Klinik Pintar I
 - [Koordinasi Harian : Izin ketidakhadiran, bekerja dari rumah dll](https://github.com/medigoid/tech-handbook/blob/develop/daily-coordination.md)
 
 Bagian ini berisikan tata cara dan ketentuan izin, bekerja dari rumah ( WFH ) dan koordinas lain terkait kegiatan pengembangan di hari kerja.
-
-- [SAKA Employee Guideline](https://docs.google.com/document/d/1Xy8OcrtMUdJCehURhJr0Gdl0q6t_RkMpwDq6BS60U5s/edit#heading=h.nuwsz7jkx0ja)
-
-Tautan luar. Berisikan ketentuan umum untuk karyawan PT SAKA DIGITAL ARSANA ( Klinik Pintar Indonesia ) 
