@@ -32,7 +32,7 @@ Bagian yang berisikan daftar field yang dibutuhkan untuk mengisi data
 
 ![](https://i.imgur.com/nG4tTvE.png)
 
-Web formulir yang dibuat selanjutnya akan di-embed dalam halaman publik dari klinik pintar dengan format `https://klinikpintar.id/formulir/<ID Form>` yang mana halaman publik tersebut memiliki dua komponen utama, yaitu:
+Web formulir yang dibuat selanjutnya akan di-embed dalam halaman publik dari klinik pintar yang mana halaman publik tersebut memiliki dua komponen utama, yaitu:
 
 ### Header (logo) 
 ![](https://i.imgur.com/P0y4SQL.png)
