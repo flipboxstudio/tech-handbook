@@ -22,7 +22,7 @@ Bagian ini berisi tentang proses _Pull Request_ yang berjalan di Klinik Pintar I
 
 Bagian ini berisikan panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Klinik Pintar Indonesia.
 
-- [Panduan untuk _Internal Tools Developer_](https://github.com/medigoid/tech-handbook/blob/develop/internal-tools-development.md)
+- [Panduan untuk _Internal Tools Developer_](https://github.com/medigoid/tech-handbook/blob/master/internal-tools-development.md)
 
 Bagian ini berisikan panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Klinik Pintar Indonesia.
 
