@@ -93,6 +93,7 @@ Beberapa aturan lainnya yang perlu diperhatikan ialah:
 
 ## 4. Flow
 Alur dalam *web dashboard* secara default terdiri dari 2 alur, yakni:
+
 **Pembacaan Data**
   - Akses halaman.
   - Penerapan Filter.
