@@ -2,70 +2,53 @@
 Bagian ini berisi mengenai panduan untuk melakukan testing dengan baik, deskripsi dokumen, proses dan kesepakatan yang berlaku di Klinik Pintar.
 
 ---
-### *Automated Testing*
+### *Quality Assurance Workflow*
 
-Tes otomatis dilakukan dengan menggunakan *supertest* untuk API testing dan *artilerry.io* untuk load testing.
-
-Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan tes otomatis adalah :
-
-- Pastikan data yang dibutuhkan tersedia, apabila diperlukan buat data dummy terlebih dahulu
-- Pastikan skenario yang dibuat sudah mencakup berbagai kondisi, meliputi *positive case* , *negative case*  dan validasi data masuk/keluar ataupun data kosong
-- Pastikan bahwa komunikasi selalu terjalin baik dengan developer untuk menghindari miskomunikasi dan automated testing bisa diselesaikan sebelum development PR
-
----
-### *Manual Testing & Test Case Document*
-
-Tes manual dilakukan dengan menggunakan dokumen *Test Case* untuk panduan langkah langkah testing. 
-
-Tes manual dilakukan oleh pengembang setelah melakukan *Pull Request* untuk kemudian dikonfirmasi oleh QA. Sebelum *sprint* berakhir, QA akan memastikan kembali seluruh pekerjaan yang diselesaikan sudah memenuhi kondisi yang tertera di dalam dokumen *Test Case*
-
-Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan tes manual adalah :
-
-- Pastikan skenario yang dibuat sudah mencakup berbagai kondisi, meliputi *positive case* , *negative case* , *corner cases* dan validasi data masuk/keluar ataupun data kosong.
-- Masukkan dokumen yang telah dibuat ke dalam drive folder dengan menggunakan penamaan sebagai berikut : 
-	- *Parent Folder* : [NAMA PROJECT] QUALITY
-	- *Test Case Folder* : Test Case Sprint X
-	- Nama berkas : Test Case [Nama Project] [Platform]
-	- Atur dokumen berdasarkan tanggal pengisian
+Alur *Quality Assurance* yang dilakukan saat ini adalah sebagai berikut:
+1. Membuat dokumen tes untuk masing-masing *user story* pada sprint terkait
+2. Melakukan PR Review dan memastikan sistem yang dibangun sudah sesuai dengan *acceptance criteria*
+3. Membangun *E2E Automation Test* untuk setiap *user story* yang sudah masuk kedalam *staging server*
+4. Melakukan Demo/UAT untuk masing-masing *user story* pada saat *sprint review*
+5. Membuat *Release Notes* untuk setiap *user story* / *bugfix* ketika melakukan release ke *production server* 
 
 ---
-### Dokumen *Technical Test Specification*
+### Dokumen Tes
 
-Merupakan dokumen kolaborasi antara *Quality Assurance* dengan *System Analyst*. Dokumen ini menggabungkan antara *Tech Spec* dengan *Test Case* agar didapatkan proses yang efisien tanpa mengurangi kualitas dan informasi yang didapatkan dalam kedua dokument tersebut. Pembuatan dokumen ini dapat dilakukan dengan menggunakan *Google Drive Template* ( *New -> Google Sheets -> From a template* )
+Dokumen tes dibuat dengan menggunakan *Azure DevOps - Test Plan*.
+Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan dokumen tes adalah:
 
-*Technical Test Spec* dibuat untuk proyek yang sudah biasa dikerjakan dan tidak memiliki tingkat kesulitan khusus.
-
-Di dalam dokumen ini terdapat *sheet Test Case* yang akan diisi oleh *Quality Assurance*.
-
-Masukkan dokumen *Tech Spec* ke dalam drive folder dengan menggunakan penamaan sebagai berikut :
-
-- *Parent Folder* : [NAMA PROJECT] QUALITY
-- Nama folder : Technical Tech Spec
-- Nama berkas : TTS [Nama Project] [Platform]
+- Pastikan setiap *sprint* memiliki 1 *test plan*. Setiap *test plan* akan berisi *test suite* sebanyak *user story* pada *sprint* terkait. Setiap *test suite* akan berisi beberapa *test case* berdasarkan *acceptance criteria* dan skenario yang dibutuhkan untuk mengatasi berbagai kondisi.
+- Pastikan skenario yang dibuat sudah mencakup keseluruhan kondisi, baik *positive case*, *negative case*, *corner case*. Akan lebih baik jika dengan mempertimbangkan salah satu atau beberapa dari teknik *testing* berikut *Boundary Value Analysis*, *Equivalence Partitioning*, *Decision Table*, *State Transition Diagram*, atau *Error Guessing*
 
 ---
-### Dokumen *User Manual*
+### *Manual Test*
 
-Manual penggunaan sistem dibuat sebelum sistem dirilis ke pengguna. Manual penggunaan berisi beberapa hal utama yaitu :
+Tes manual dilakukan berdasarkan dokumen tes untuk panduan langkah langkah *testing*. 
+Tes manual dilakukan oleh pengembang setelah melakukan *Pull Request* untuk kemudian dikonfirmasi oleh QA. Setelah terkonfirmasi, *Pull Request* akan *merge* ke *staging server*. dan QA akan memulai untuk membangun *E2E Automation Test* pada *staging server*
 
-- Garis besar kegunaan sistem
-- *Screenshot* dari halaman sistem
-- Penjelasan mengenai kegunaan dan fungsi yang terkandung dalam halaman tersebut
+Sebelum *sprint* berakhir, QA akan memastikan kembali seluruh pekerjaan yang diselesaikan sudah memenuhi kondisi yang tertera di dalam dokumen tes
 
-Masukkan dokumen manual penggunaan sistem ke dalam drive folder dengan menggunakan penamaan sebagai berikut :
+---
+### *E2E Automation Test*
 
-- *Parent Folder* : [NAMA PROJECT] QUALITY
-- Nama berkas : User Manual [Nama Project] [Platform]
-- Jika dibutuhkan, masukkan berkas ke dalam folder bernama *User Manual*
+*E2E Automation Test* dibangun dengan menggunakan framework *[CodeceptJS](https://codecept.io/)*.
+Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan *E2E Automationt Test* adalah :
+
+- Pastikan *E2E Automation Test* yang dibangun menggunakan format *Behaviour Driven Development* dengan *Gherkin Syntax*
+- Pastikan *E2E Automation Test* yang dibangun berdasarkan dokumen tes dan dapat dijalankan berulang kali
+- Sebelum menjalankan *E2E Automation Test*, Pastikan data yang dibutuhkan tersedia, apabila diperlukan buat data *dummy* terlebih dahulu
+- Selain berdasarkan dokumen tes (per *sprint*), disarankan untuk membangun *E2E Automation Test* per modul juga untuk mempermudah dalam melakukan *regression test*
 
 ---
 
-### *RULES Untuk Report Bugs*
+### *Bug Report Procedure*
 
 Ketika tim QA menemukan bugs atau ada yang harus diimprove di dalam aplikasi, ada *standar report* yang harus diperhatikan: 
 
-*BUGS*
-- *How to Reproduce*	: berisi step by step bagaimana mendapatkan bugs tersebut.
+*BUG*
+- *Severity* : berisi level tingkatan resiko atau seberapa pengaruh bugs terhadap sistem
+- *Priority* : berisi level prioritas bug untuk diperbaiki
+- *Steps to Reproduce* : berisi step by step bagaimana mendapatkan bugs tersebut.
 - *Actual Result*	: berisi output dari step yang dijalankan.
 - *Expected Result*	: berisi output yang semestinya (yang benar)
 - *Extra Information*	: bisa berupa *screenshot* atau *credential* yang digunakan untuk testing
@@ -76,7 +59,7 @@ Ketika tim QA menemukan bugs atau ada yang harus diimprove di dalam aplikasi, ad
 
 ---
   
-### FLOW REVIEW *PR (PULL REQUEST)* 
+### *Review PR (Pull Request) Flow* 
 
 Peran tim *Quality Assurance* dalam *Pull Request* adalah untuk me-review fitur baru atau bugfix berjalan sebagaimana mestinya sebelum merge ke develop atau master. Beberapa hal yang perlu diperhatikan dalam *Pull Request* ini adalah:
 
@@ -100,6 +83,6 @@ Tim *QA* juga berhak melakukan *Decline Pull Request* dengan ketentuan sebagai b
 
 ---
 
-Bacaan tambahan ( gunakan akun Klinik Pintar untuk akses Udemy *course* ) :
+Bacaan tambahan ( gunakan akun Medigo untuk akses Udemy *course* ) :
 
 - [Panduan Penggunaan Fabric](https://github.com/medigoid/tech-handbook/blob/develop/fabric-guide.md)
