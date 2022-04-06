@@ -83,6 +83,23 @@ Tim *QA* juga berhak melakukan *Decline Pull Request* dengan ketentuan sebagai b
 
 ---
 
-Bacaan tambahan ( gunakan akun Medigo untuk akses Udemy *course* ) :
+### *Release Notes* 
 
-- [Panduan Penggunaan Fabric](https://github.com/medigoid/tech-handbook/blob/develop/fabric-guide.md)
+*Release Notes* dibuat dengan menggunakan *[Docs Klinik Pintar](https://docs.klinikpintar.id/doc/release-notes-VnZ2Q4m4iC)* pada menu *Product* > *Release Notes*.
+Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan *Release Notes* adalah:
+
+- Penamaan judul *Release Notes* menggunakan format **[Nama Platform] - Release [Tanggal Release] (Version [Versi Platform])**. Sebagai contoh: **Klinik OS - Release 1 April 2022 (Version 1.16.0)**
+- Outline dari *Release Notes* adalah sebagai berikut:
+	- [H1] Apa yang baru?
+		- [H2] Modul - Fitur 1
+	- [H1] Apa yang berubah?
+		- [H2] *Improvements*
+			- [H3] *Improvements* Modul 1 - Keterangan *Improvements*
+		- [H2] *Fixes*
+			- [H3] *Fixes* Modul 1 - Keterangan *Fixes*
+- Pastikan untuk menambahkan *screenshot* gambar atau gif untuk menjelaskan langkah - langkah menjalankan fitur baru atau *improvements* fitur lainnya
+- Setelah *Release Notes* selesai dibuat, pastikan untuk memberi info kepada *stakeholder* terkait atau bagikan dokumen *Release Notes* melalui Klinik Pintar *Google Chat Space General* pada thread *Release Notes*
+
+---
+
+Bacaan tambahan ( gunakan akun Klinik Pintar untuk akses Udemy *course* ) :
