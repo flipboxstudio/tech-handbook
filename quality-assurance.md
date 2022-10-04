@@ -39,6 +39,8 @@ Beberapa hal yang perlu diperhatikan dalam melakukan pembuatan *E2E Automationt 
 - Sebelum menjalankan *E2E Automation Test*, Pastikan data yang dibutuhkan tersedia, apabila diperlukan buat data *dummy* terlebih dahulu
 - Selain berdasarkan dokumen tes (per *sprint*), disarankan untuk membangun *E2E Automation Test* per modul juga untuk mempermudah dalam melakukan *regression test*
 
+Lihat deskripsi selengkapnya di [Panduan E2E AT Development](https://github.com/medigoid/tech-handbook/blob/master/e2e-automate-test-development.md)
+
 ---
 
 ### *Bug Report Procedure*
