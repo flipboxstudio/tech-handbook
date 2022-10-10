@@ -133,7 +133,7 @@ Lihat deskripsi selengkapnya di [Panduan E2E AT SCM](https://github.com/medigoid
 
 Corporate & Patient Portal merupakan *platform* di Klinik Pintar Indonesia yang didesain untuk kebutuhan perusahaan dalam menyediakan layanan yang dikhususkan pada konsumen/klien perusahaan atau pasien.
 
-Lihat deskripsi selengkapnya di [Panduan E2E AT CPP](https://github.com/medigoid/tech-handbook/blob/master/e2e-automate-test-development.md)
+Lihat deskripsi selengkapnya di [Panduan E2E AT CPP](https://github.com/medigoid/tech-handbook/blob/master/e2e-at-cpp-development.md)
 
 ---
 ---
