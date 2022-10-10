@@ -104,7 +104,7 @@ Setiap *platform* pada klinik pintar memiliki kebutuhan dan basis sistem/*tools*
 
 Klinik OS merupakan *platform* di Klinik Pintar Indonesia yang didesain untuk kebutuhan klinik secara khusus dalam menjalankan pelayanan kesehatan. Klinik OS memiliki fitur utama diantaranya fitur pendaftaran, rekam medis, dan pembayaran.
 
-Lihat deskripsi selengkapnya di [Panduan E2E AT Klinik OS](https://github.com/medigoid/tech-handbook/blob/master/e2e-automate-test-development.md)
+Lihat deskripsi selengkapnya di [Panduan E2E AT Klinik OS](https://github.com/medigoid/tech-handbook/blob/master/e2e-at-klinikos-development.md)
 
 ---
 ---
