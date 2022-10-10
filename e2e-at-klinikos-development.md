@@ -64,14 +64,14 @@ Daftar teknik/pengujian:
 
 ### Test script
 Penamaan test scipt disimpan dalam folder sesuai fungsinya dan memiliki aturan dalam penmaan unutk memudahkan idenetifikasi & kegunaan, yakni:
-  - **Feature**: nama-modul.feature (ex: medical-record.feature)
-  - **Step Definitions**: nama-modul.js/ts (ex: medical-record.js)
-  - **Page Object**: NamaModul.js/ts (ex: MedicalRecord.js)
+  - **Feature**: `nama-modul.feature` (ex: `medical-record.feature`)
+  - **Step Definitions**: `nama-modul.js/ts` (ex: `medical-record.js`)
+  - **Page Object**: `NamaModul.js/ts` (ex: `MedicalRecord.js`)
 
 Penamaan skenario dalam test script memiliki aturan dalam penamaan untuk memudahkan identifikasi & kegunaan, yakni:
-  - **Tag**: @<Nama/Akronim Modul>-module @<Use Case> (ex: @mr-module @create) 
-  - **TCID**: \<Akronim Peran>-\<Akrnonim Modul>-\<ID> (ex: CA-MRM-01)
-  - **Skenario**: \<TCID>: As an <peran>, <aktivitas> <deskripsi/keterangan> (ex: \<CA-MRM-01>: As a clinic admin, I can create medical record with required data)
+  - **Tag**: `@<Nama/Akronim Modul>-module @<Use Case>` (ex: `@mr-module @create`) 
+  - **TCID**: `<Akronim Peran>-<Akrnonim Modul>-<ID>` (ex: `CA-MRM-01`)
+  - **Skenario**: `<TCID>: As an <peran>, <aktivitas> <deskripsi/keterangan>` (ex: `<CA-MRM-01>: As a clinic admin, I can create medical record with required data`)
 
 ### Widget / UI Components 
 Masing - masing *widget/ui components* memiliki aturan dalam penamaan untuk memudahkan identifikasi & kegunaan, yakni:
