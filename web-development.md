@@ -1,11 +1,11 @@
 # Panduan untuk *Web Developer*
-Bagian ini berisi mengenai panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Klinik Pintar Indonesia.
+Bagian ini berisi mengenai panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Klinik Pintar.
 
 ---
 
 ### Panduan *API*
 
-API di Klinik Pintar Indonesia dibuat menggunakan panduan yang ada di dalam dokumen [API Standard](https://github.com/medigoid/tech-handbook/blob/develop/api-standard.md)
+API di Klinik Pintar dibuat menggunakan panduan yang ada di dalam dokumen [API Standard](https://github.com/medigoid/tech-handbook/blob/develop/api-standard.md)
 
 ---
 #### Pustaka : Lumen Generator
@@ -40,7 +40,7 @@ Lihat deskripsi selengkapnya di [Progressive Vue](https://github.com/medigoid/pr
 - Jangan lupa berdoa setelah berusaha
 
 ---
-Bacaan tambahan ( gunakan akun Klinik Pintar Indonesia untuk akses Udemy *course* ) :
+Bacaan tambahan ( gunakan akun Klinik Pintar untuk akses Udemy *course* ) :
 
 - [ASP.NET MVC](https://www.udemy.com/the-complete-aspnet-mvc-5-course/learn/v4/overview)
 - [Understand TypeScript](https://www.udemy.com/understanding-typescript/learn/v4/overview)

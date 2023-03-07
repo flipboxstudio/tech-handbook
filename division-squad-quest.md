@@ -4,7 +4,7 @@ Di dalam tim tech Klinik Pintar terdapat beberapa jenis pengelompokan member :
 
 **Division** : Merupakan sebuah kelompok ilmu tertentu
 
-Tujuan dari sebuah divisi adalah untuk mempermudah komunikasi dan memperdalam pemahaman sebuah bidang ilmu. Divisi yang ada di dalam Klinik Pintar Indonesia adalah : Web, Mobile & QA
+Tujuan dari sebuah divisi adalah untuk mempermudah komunikasi dan memperdalam pemahaman sebuah bidang ilmu. Divisi yang ada di dalam Klinik Pintar adalah : Web, Mobile & QA
 
 **Squad** : Merupakan sebuah kelompok antar ilmu yang terdiri dari 3-4 orang.
 

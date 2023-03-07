@@ -1,6 +1,6 @@
 # Panduan dan konsep dasar Programming
 
-Bagian ini berisi rangkuman dan referensi dasar dasar pemrograman yang wajib dipahami oleh seluruh tim teknis Klinik Pintar Indonesia.
+Bagian ini berisi rangkuman dan referensi dasar dasar pemrograman yang wajib dipahami oleh seluruh tim teknis Klinik Pintar.
 
 ---
 ### Konsep Clean Code
@@ -151,7 +151,7 @@ Beberapa jenis *Polymorphism* adalah :
 > Contoh : kelas `Binatang` mempunyai fungsi `bicara`, namun kelas yang merepresentasikan `Binatang` mungkin mempunyai cara yang berbeda untuk `bicara` ( misalkan `Kucing` `bicara` akan mengembalikan *Meow!* dan `Anjing` `bicara` akan mengembalikan *Woof!* )
 
 
-Bacaan tambahan ( gunakan akun Klinik Pintar Indonesia untuk akses Udemy *course* ) :
+Bacaan tambahan ( gunakan akun Klinik Pintar untuk akses Udemy *course* ) :
 
 [Design Pattern Guide](https://www.udemy.com/draft/725258/learn/v4/content)
 

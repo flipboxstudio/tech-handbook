@@ -1,12 +1,12 @@
 # Panduan untuk *End to End (E2E) Automation Test Developer*
-Bagian ini berisi mengenai panduan untuk membuat kode, menggunakan *third-party tools*, penjelasan alur atau arsitektur dan pustaka yang ada dan/atau digunakan dalam membuat *end to end automation test* di Klinik Pintar Indonesia.
+Bagian ini berisi mengenai panduan untuk membuat kode, menggunakan *third-party tools*, penjelasan alur atau arsitektur dan pustaka yang ada dan/atau digunakan dalam membuat *end to end automation test* di Klinik Pintar.
 
 ---
 ---
 
 ## E2E Automation Test : Standar alur dan arsitektur untuk pembuatan *e2e automation test*
 
-*End to end (e2e) testing* merupakan teknik pengujian untuk memastikan bahwa sistem telah berjalan sesuai alur yang telah ditentukan mulai dari awal sampai akhir di Klinik Pintar Indonesia. *E2E testing* memiliki empat alur utama yang dibagi dalam perencanaan, perancangan, pelaksanaan, dan analisis hasil.
+*End to end (e2e) testing* merupakan teknik pengujian untuk memastikan bahwa sistem telah berjalan sesuai alur yang telah ditentukan mulai dari awal sampai akhir di Klinik Pintar. *E2E testing* memiliki empat alur utama yang dibagi dalam perencanaan, perancangan, pelaksanaan, dan analisis hasil.
 
 ![](https://i.imgur.com/98gApwl.png)
 
@@ -102,7 +102,7 @@ Setiap *platform* pada klinik pintar memiliki kebutuhan dan basis sistem/*tools*
 
 ## E2E AT Klinik OS : Standar alur dan arsitektur untuk pembuatan *e2e automation test* pada *platform* Klinik OS
 
-Klinik OS merupakan *platform* di Klinik Pintar Indonesia yang didesain untuk kebutuhan klinik secara khusus dalam menjalankan pelayanan kesehatan. Klinik OS memiliki fitur utama diantaranya fitur pendaftaran, rekam medis, dan pembayaran.
+Klinik OS merupakan *platform* di Klinik Pintar yang didesain untuk kebutuhan klinik secara khusus dalam menjalankan pelayanan kesehatan. Klinik OS memiliki fitur utama diantaranya fitur pendaftaran, rekam medis, dan pembayaran.
 
 Lihat deskripsi selengkapnya di [Panduan E2E AT Klinik OS](https://github.com/medigoid/tech-handbook/blob/master/e2e-at-klinikos-development.md)
 
@@ -112,7 +112,7 @@ Lihat deskripsi selengkapnya di [Panduan E2E AT Klinik OS](https://github.com/me
 
 ## E2E AT Website : Standar alur dan arsitektur untuk pembuatan *e2e automation test* pada *platform* Website
 
-Website merupakan *platform* di Klinik Pintar Indonesia yang didesain untuk kebutuhan perusahaan dalam melakukan *branding* pada pihak luar dan menghubungkannya ke semua layanan yang tersedia.
+Website merupakan *platform* di Klinik Pintar yang didesain untuk kebutuhan perusahaan dalam melakukan *branding* pada pihak luar dan menghubungkannya ke semua layanan yang tersedia.
 
 Lihat deskripsi selengkapnya di [Panduan E2E AT Website](https://github.com/medigoid/tech-handbook/blob/master/e2e-at-website-development.md)
 
@@ -122,7 +122,7 @@ Lihat deskripsi selengkapnya di [Panduan E2E AT Website](https://github.com/medi
 
 ## E2E AT Supply Chain System : Standar alur dan arsitektur untuk pembuatan *e2e automation test* pada *platform* Supply Chain System
 
-Supply Chain System (SCM) merupakan *platform* di Klinik Pintar Indonesia yang didesain untuk mengakomodasi layanan *supply chain*. SCM memiliki dua *platform* utama diantaranya, *supply chain management system* dan *catalog*.
+Supply Chain System (SCM) merupakan *platform* di Klinik Pintar yang didesain untuk mengakomodasi layanan *supply chain*. SCM memiliki dua *platform* utama diantaranya, *supply chain management system* dan *catalog*.
 
 Lihat deskripsi selengkapnya di [Panduan E2E AT SCM](https://github.com/medigoid/tech-handbook/blob/master/e2e-at-scm-development.md)
 
@@ -131,7 +131,7 @@ Lihat deskripsi selengkapnya di [Panduan E2E AT SCM](https://github.com/medigoid
 
 ## E2E AT Corporate & Patient Portal : Standar alur dan arsitektur untuk pembuatan *e2e automation test* pada *platform* Corporate & Patient Portal
 
-Corporate & Patient Portal merupakan *platform* di Klinik Pintar Indonesia yang didesain untuk kebutuhan perusahaan dalam menyediakan layanan yang dikhususkan pada konsumen/klien perusahaan atau pasien.
+Corporate & Patient Portal merupakan *platform* di Klinik Pintar yang didesain untuk kebutuhan perusahaan dalam menyediakan layanan yang dikhususkan pada konsumen/klien perusahaan atau pasien.
 
 Lihat deskripsi selengkapnya di [Panduan E2E AT CPP](https://github.com/medigoid/tech-handbook/blob/master/e2e-at-cpp-development.md)
 

@@ -1,11 +1,11 @@
 # Panduan untuk *Mobile Developer*
-Bagian ini berisi mengenai panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Klinik Pintar Indonesia.
+Bagian ini berisi mengenai panduan untuk membuat kode baik, penjelasan arsitektur dan pustaka yang ada dan/atau digunakan di Klinik Pintar.
 
 ---
 
 ### MVVM-Starter : Standar arsitektur untuk Aplikasi Android
 
-*MVVM Starter* merupakan standar arsitektur proyek berbasis Android yang dikembangkan di Klinik Pintar Indonesia. Sesuai dengan namanya, arsitektur ini mengadopsi konsep MVVM dengan penambahan beberapa fungsi lain untuk membantu pengembangan aplikasi menjadi lebih cepat dan stabil.
+*MVVM Starter* merupakan standar arsitektur proyek berbasis Android yang dikembangkan di Klinik Pintar. Sesuai dengan namanya, arsitektur ini mengadopsi konsep MVVM dengan penambahan beberapa fungsi lain untuk membantu pengembangan aplikasi menjadi lebih cepat dan stabil.
 
 Lihat deskripsi selengkapnya di [MVVM Starter](https://github.com/medigoid/mvvm-starter) dan [Panduan MVVM Starter](https://github.com/medigoid/tech-handbook/blob/develop/android-development-guide.md)
 
@@ -16,12 +16,12 @@ Lihat selengkapnya di [sosoito](https://github.com/medigoid/sosoito)
 
 ### VIP-Starter : Standar arsitektur untuk Aplikasi iOS
 
-*VIP Starter* merupakan standar arsitektur proyek berbasis iOS yang dikembangkan di Klinik Pintar Indonesia. Arsitektur ini mengadopsi konsep [Clean Swift](http://clean-swift.com/) dengan penambahan beberapa fungsi lain untuk membantu pengembangan aplikasi menjadi lebih cepat dan stabil.
+*VIP Starter* merupakan standar arsitektur proyek berbasis iOS yang dikembangkan di Klinik Pintar. Arsitektur ini mengadopsi konsep [Clean Swift](http://clean-swift.com/) dengan penambahan beberapa fungsi lain untuk membantu pengembangan aplikasi menjadi lebih cepat dan stabil.
 
 Lihat deskripsi selengkapnya di [VIP Starter](https://github.com/medigoid/vip-starter) dan [Panduan VIP Starter](https://github.com/medigoid/tech-handbook/blob/master/ios-development-style-guide.md)
 
 ---
-Bacaan tambahan ( gunakan akun Klinik Pintar Indonesia untuk akses Udemy *course* ) :
+Bacaan tambahan ( gunakan akun Klinik Pintar untuk akses Udemy *course* ) :
 
 - [Panduan Penggunaan Fabric](https://github.com/medigoid/tech-handbook/blob/develop/fabric-guide.md)
 - [Stanford iPhone App Development 2017](https://www.youtube.com/playlist?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)
